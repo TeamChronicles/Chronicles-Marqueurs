@@ -1,5 +1,5 @@
-Information
+# Configuration des scripts
 
-Les fichiers config.cpp et le $PREFIX$ doivent se trouver dans votre dossier pbo
+Copié le config.cpp, $PREFIX$ et le dossier icons
 
-Le dossier icons servira a ranger tous vos marqueurs (sa sera plus propre)
+Pour configurer veuillez vous rendre dans config.cpp puis le fichier $PREFIX$
